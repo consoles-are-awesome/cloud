@@ -1,1 +1,8 @@
- 
+{
+  "enabled": true,
+  "message": "Woah! A message!",
+  "type": "Information",
+  "sent_at": "2026-04-07T01:23:48Z",
+  "expires_at": null,
+  "link": "https://www.youtube.com/watch?v=pvP_YJTpt44"
+}
