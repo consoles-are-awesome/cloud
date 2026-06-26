@@ -1,0 +1,12 @@
+# Tentative list of users who own an item granted to them specifically by Valve.
+# These items usually are 1-of-1, with unique attributes applied to them (like Community Sparkles).
+# Often, the Make-A-Wish Foundation is the source of items like these existing. In other cases, like
+# as is the case of Markus "Notch" Persson's "Top Notch" hat, it's a novel vanity item no other player owns.
+#
+# Make a Wish Grants
+[U:1:96417228]
+[U:1:890578046]
+[U:1:172605666]
+# Notch
+[U:1:8227392]
+# TODO - Other 1-of-1's
