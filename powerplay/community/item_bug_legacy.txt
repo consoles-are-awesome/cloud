@@ -1,0 +1,12 @@
+# Custom items Valve issued to reporters of serious exploits - prior to the Finder's Fee distribution
+[U:1:80747428]
+[U:1:19836468]
+[U:1:114127430]
+[U:1:10662718]
+[U:1:45637766]
+[U:1:69437354]
+[U:1:62632209]
+[U:1:79055071]
+[U:1:111764839]
+[U:1:872525793]
+[U:1:889628045]
